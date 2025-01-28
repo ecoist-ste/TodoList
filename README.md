@@ -4,5 +4,13 @@
 - The goal for you is to understand **every line of code** in this project. More specifically, you should be able to tell what each line does and how the state transitions to the next one. After that, you should be able to **recreate** the **entire codebase** from scratch based on the project description from the frist bullet point.
 - And with that you should be confident enough to be part of the team contributing to ARchitect implementation.
 
+# Demo
+
+
+https://github.com/user-attachments/assets/4b362a27-68b3-4e74-a2d2-7ced06b8dbf4
+
+
+
 # Installation Guide
 - You can either download this directly and open in Xcode or clone this repo to your local device. 
+
